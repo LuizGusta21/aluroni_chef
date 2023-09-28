@@ -14,5 +14,9 @@
   {
     "nome": "Preço",
     "value": "preco"
+  },
+  {
+    "nome": "A-Z",
+    "value": "alfabetica"
   }
 ]
